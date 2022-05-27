@@ -1,5 +1,5 @@
 
-# Sentimental_Analysis_of_Product_and_Movie_Review_System
+# Sentimental_Analysis_on_Product_Review_System
 
 
 A  Machine Learning review system Web App Project
