@@ -1,0 +1,16 @@
+{
+  "name": "saomap",
+  "version": "1.0.0",
+  "description": "Semantic analysis of movie and product",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheACE",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "python-shell": "^2.0.3"
+  }
+}
